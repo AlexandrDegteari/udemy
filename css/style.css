@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    /*display: flex;*/
+}
+
+main {
+    /*width: 80%;*/
+}
+
+aside li{
+    /*width: 20%;*/
+    /*background-color: #f0f0f0;*/
+    list-style-type: none;
+}
+aside{
+    background-color: #f0f0f0;
+    height: 100%;
+}
